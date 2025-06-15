@@ -1,0 +1,23 @@
+# Installatie-instructies HuurDirect
+
+## 1. Thema installeren
+- Upload en activeer `astra-theme.zip` onder Weergave → Thema's
+
+## 2. Plugins installeren
+Installeer de 4 plugins uit `plugin-lijst.txt` en activeer deze.
+
+## 3. Demo content importeren
+- Ga naar Hulpmiddelen → Importeren
+- Installeer de WordPress Importer
+- Importeer `starter-huurdirect.xml`
+
+## 4. Mollie instellen via Pronamic Pay
+- Maak een Mollie-account aan op mollie.com
+- Voeg je API-sleutel toe via Pronamic → Instellingen
+- Activeer iDEAL + SEPA automatische incasso
+
+## 5. Test de abonnementsflow
+- Maak een testgebruiker
+- Sluit een abonnement af (€25 per maand)
+- Bekijk een woningpagina (alleen zichtbaar na betaling)
+- Test opzeggen via gebruikersdashboard

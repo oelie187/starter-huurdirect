@@ -1,0 +1,4 @@
+1. Paid Memberships Pro – https://wordpress.org/plugins/paid-memberships-pro/
+2. Pronamic Pay – https://www.pronamic.eu/plugins/pronamic-pay/
+3. Custom Post Type UI – https://wordpress.org/plugins/custom-post-type-ui/
+4. Advanced Custom Fields – https://wordpress.org/plugins/advanced-custom-fields/
